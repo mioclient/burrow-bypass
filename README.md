@@ -18,4 +18,4 @@ for (int i = 0; i < 20; i++)
 3. Ur golden
 
 ## Credits
-lemoliam (hes cool)
+lemoliam (he found бупс hes cool)
